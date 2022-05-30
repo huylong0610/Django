@@ -20,7 +20,4 @@ II/ Hướng dẫn sử dụng:
 1. Với admin để thêm sửa xóa sản phẩm:
 - Dùng terminal Chạy câu lệnh: py manage.py createsuperuser để tạo admin
 - Đăng kí theo các bước!
-- Có thể dùng sẵn tài khoản admin này luôn:
-Tài khoản: long62k@gmail.com   
-Mật khẩu: 123456
 
